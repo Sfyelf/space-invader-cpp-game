@@ -25,7 +25,6 @@ The project was created to practice object-oriented programming, game logic, use
 
 ## Repository Structure
 
-```txt
 space-invader-cpp-game/
 ├── src/
 │   ├── main.cpp
